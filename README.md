@@ -34,8 +34,7 @@ For German, the following commands are supported:
 * Werde ich erkannt?
 * Was kann ich sagen?
 
-
-
+Reources for further languages have not been added yet, but we prepared the current code implementation for the following additional languages Spanish, French, and Italian, which we plan to add in future.
 
 
 
