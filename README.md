@@ -26,7 +26,7 @@ For English, the following speech commands are available:
 * Am I tracked?
 * What can I say?
 
-For German, the following commands are supported:
+For German, the following commands are recognized:
 * Starte Gestensteuerung
 * Beende Gestensteuerung
 * Starte Präsentation
