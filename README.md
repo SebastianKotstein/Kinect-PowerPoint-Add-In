@@ -9,15 +9,15 @@ To use this VSTO Add-in, you need the following hardware/software:
 
 ## Supported Kinect Gestures:
 After enabling gesture recognition over the Ribbon menu (labeled as "Kinect Gesture Control"), the Add-in recognizes the following gestures:
-* Close your left hand to start slide show
-* Close your right hand to end slide show 
-* Swipe your hand from the right side of your body to the left to proceed to next slide
-* Rotate your arm counter clockwise to go back to previous slide
+* Close your left hand to start the slide show
+* Close your right hand to end the slide show 
+* Swipe your hand from the right side of your body to the left to proceed to the next slide
+* Rotate your arm counterclockwise to go back to the previous slide
 
 ## Supported Speech Commands:
-The current version of this Add-in, supports speech commands in English and German.
-The set of usable speech recongizers and voice synthesizer, however, depends on your machine's culture and installed Windows 10 language packs.
-To enable speech recognition, select an input language/culture in the combo box labeled with "Input Language".
+The current version of this Add-in supports speech commands in English and German.
+The set of usable speech recognizers and voice synthesizers, however, depends on your machine's culture and installed Windows 10 language packs.
+To enable speech recognition, select an input language/culture in the combo box labeled "Input Language".
 For English, the following speech commands are available:
 * Start Recognition
 * End Recognition
@@ -34,7 +34,7 @@ For German, the following commands are recognized:
 * Werde ich erkannt?
 * Was kann ich sagen?
 
-Commands for additional languages have not been added yet, but we have prepared the code implementation for Spanish, French, and Italian, which we plan to add in future.
+Commands for additional languages have not been added yet, but we have prepared the code implementation for Spanish, French, and Italian.
 
 
 
